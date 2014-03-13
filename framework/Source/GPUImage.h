@@ -153,3 +153,8 @@
 #import "GPUImageLaplacianFilter.h"
 #import "GPUImageiOSBlurFilter.h"
 #import "GPUImageLuminanceRangeFilter.h"
+
+//Custom
+
+#import "PnpCustomFilter.h"
+#import "PnpThumbnailDataSource.h"

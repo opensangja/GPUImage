@@ -11,7 +11,7 @@
 			isa = PBXAggregateTarget;
 			buildConfigurationList = BC552B371558C6F4001F3FFA /* Build configuration list for PBXAggregateTarget "Documentation" */;
 			buildPhases = (
-				BC552B3A1558C6FC001F3FFA /* ShellScript */,
+				BC552B3A1558C6FC001F3FFA /* Run Script */,
 			);
 			dependencies = (
 			);
@@ -1430,13 +1430,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		BC552B3A1558C6FC001F3FFA /* ShellScript */ = {
+		BC552B3A1558C6FC001F3FFA /* Run Script */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
+			name = "Run Script";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
